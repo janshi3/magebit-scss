@@ -40,6 +40,11 @@ $social-pressed: (
     outline: none;
 }
 
+a, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
 // Mixins
 
 // Hover and Active effect for each Social Link
